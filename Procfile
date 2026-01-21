@@ -1,0 +1,1 @@
+web: cd appfrittfram && npm start
